@@ -1,4 +1,4 @@
-#🚀 Your Guided Journey into AI Agents
+## 🚀 Your Guided Journey into AI Agents
 This repository is designed for developers, students, and AI enthusiasts who want to:
 
 Start from Scratch: No prior AI agent experience required
